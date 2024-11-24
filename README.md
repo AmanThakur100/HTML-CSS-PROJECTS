@@ -5,3 +5,4 @@
 4 - Developer landing page
 5 - Restaurant Website
 6 - Music Website
+7 - Amazon clone
